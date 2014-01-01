@@ -1,5 +1,6 @@
 Relational Database Synthesis
 ========
+<i>By: Matt Antonelli</i>
 
 This relational database synthesizer was designed in Ruby.
 
@@ -8,7 +9,10 @@ This relational database synthesizer was designed in Ruby.
 
 An installer for Ruby can be found at http://rubyinstaller.org/.
 
+
 <center><b>Sample Runs:</b></center>
 ![Sample Run A](http://tunabytes.com/imgdump/synthesisa.png)
+
 ![Sample Run B](http://tunabytes.com/imgdump/synthesisb.png)
+
 ![Sample Run C](http://tunabytes.com/imgdump/synthesisc.png)
